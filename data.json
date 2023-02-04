@@ -1,0 +1,10 @@
+{
+    "items": [
+        { "title":"<h3>iPhone 12 128GB</h3>", "image":"<img src='img/iphone.jpg' alt=''>", "price": "<span>1000$</span>", "quantity":"<span>10шт</span>" },
+        { "title":"<h3>IKEA Shark Toy</h3>", "image":"<img src='img/shark.jpg' alt=''>", "price": "<span>50$</span>", "quantity":"<span>5шт</span>" }, 
+        { "title":"<h3>MSI GeForce RTX 3090 Ventus 3x 24g</h3>", "image":"<img src='img/rtx.jpg' alt=''>", "price": "<span>2500$</span>", "quantity":"<span>13шт</span>" }, 
+        { "title":"<h3>Asus ROG Strix G17 G713RC-HX048</h3>", "image":"<img src='img/rog.jpg' alt=''>", "price": "<span>2000$</span>", "quantity":"<span>1шт</span>" },
+        { "title":"<h3>Logitech G435 LightSpeed</h3>", "image":"<img src='img/g435.jpeg' alt=''>", "price": "<span>120$</span>", "quantity":"<span>7шт</span>" }, 
+        { "title":"<h3>RAZER Mamba Wireless</h3>", "image":"<img src='img/mamba.jpg' alt=''>", "price": "<span>160$</span>", "quantity":"<span>17шт</span>" }
+     ]
+}
